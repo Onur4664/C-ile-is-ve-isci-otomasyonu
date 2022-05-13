@@ -1,0 +1,99 @@
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\bin\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.exe.config
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\bin\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.exe
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\bin\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.pdb
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.csprojResolveAssemblyReference.cache
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.GİRİŞ.resources
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.iscigiris.resources
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.isverengiris.resources
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.Properties.Resources.resources
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.csproj.GenerateResource.Cache
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.exe
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.pdb
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.isverensayfası.resources
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.iscisayfa.resources
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.yeniisci.resources
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.yeniisveren.resources
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.iscihesap.resources
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.özgecmis.resources
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.isara.resources
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.yapılanbasvuru.resources
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.yeniegitimd.resources
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.isverenhesap.resources
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.sirketbilgi.resources
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.basvurular.resources
+C:\Users\Sibel SARIBAŞ\Documents\Visual Studio 2012\Projects\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.ilanolustur.resources
+G:\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\bin\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.exe.config
+G:\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.exe
+G:\İŞ VE İŞÇİ BULMA OTOMASYONU\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.pdb
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\bin\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.exe.config
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.exe
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.pdb
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\bin\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.exe
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\bin\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.pdb
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.basvurular.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.GİRİŞ.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.ilanolustur.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.isara.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.iscigiris.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.iscihesap.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.iscisayfa.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.isverengiris.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.isverenhesap.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.isverensayfası.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.Properties.Resources.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.sirketbilgi.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.yapılanbasvuru.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.yeniegitimd.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.yeniisci.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.yeniisveren.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.özgecmis.resources
+C:\Users\Onur\Desktop\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\bin\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.exe.config
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\bin\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.exe
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\bin\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.pdb
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.basvurular.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.GİRİŞ.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.ilanolustur.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.isara.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.iscigiris.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.iscihesap.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.iscisayfa.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.isverengiris.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.isverenhesap.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.isverensayfası.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.Properties.Resources.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.sirketbilgi.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.yapılanbasvuru.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.yeniegitimd.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.yeniisci.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.yeniisveren.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.özgecmis.resources
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.exe
+C:\Users\Onur\Desktop\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.pdb
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\bin\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.exe.config
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.exe
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.pdb
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\bin\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.exe
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\bin\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.pdb
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.basvurular.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.GİRİŞ.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.ilanolustur.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.isara.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.iscigiris.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.iscihesap.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.iscisayfa.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.isverengiris.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.isverenhesap.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.isverensayfası.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.Properties.Resources.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.sirketbilgi.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.yapılanbasvuru.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.yeniegitimd.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.yeniisci.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.yeniisveren.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ_VE_İŞÇİ_BULMA_OTOMASYONU.özgecmis.resources
+C:\Users\Onur\Desktop\C. C#, PYHTON\kütüpjane\İŞ VE İŞÇİ BULMA OTOMASYONU\obj\Debug\İŞ VE İŞÇİ BULMA OTOMASYONU.csproj.GenerateResource.Cache

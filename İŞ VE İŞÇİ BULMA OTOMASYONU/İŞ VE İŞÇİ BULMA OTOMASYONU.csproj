@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{77DDAE60-E126-4F8F-9336-735B5252639A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>İŞ_VE_İŞÇİ_BULMA_OTOMASYONU</RootNamespace>
+    <AssemblyName>İŞ VE İŞÇİ BULMA OTOMASYONU</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="basvurular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="basvurular.Designer.cs">
+      <DependentUpon>basvurular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GİRİŞ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GİRİŞ.Designer.cs">
+      <DependentUpon>GİRİŞ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ilanolustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ilanolustur.Designer.cs">
+      <DependentUpon>ilanolustur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="isara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="isara.Designer.cs">
+      <DependentUpon>isara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="iscigiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="iscigiris.Designer.cs">
+      <DependentUpon>iscigiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="iscihesap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="iscihesap.Designer.cs">
+      <DependentUpon>iscihesap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="iscisayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="iscisayfa.Designer.cs">
+      <DependentUpon>iscisayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="isverengiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="isverengiris.Designer.cs">
+      <DependentUpon>isverengiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="isverenhesap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="isverenhesap.Designer.cs">
+      <DependentUpon>isverenhesap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="isverensayfası.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="isverensayfası.Designer.cs">
+      <DependentUpon>isverensayfası.cs</DependentUpon>
+    </Compile>
+    <Compile Include="is_ve_isci_bulmaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>is_ve_isci_bulmaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sirketbilgi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sirketbilgi.Designer.cs">
+      <DependentUpon>sirketbilgi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yapılanbasvuru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yapılanbasvuru.Designer.cs">
+      <DependentUpon>yapılanbasvuru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yeniegitimd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yeniegitimd.Designer.cs">
+      <DependentUpon>yeniegitimd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yeniisci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yeniisci.Designer.cs">
+      <DependentUpon>yeniisci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yeniisveren.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yeniisveren.Designer.cs">
+      <DependentUpon>yeniisveren.cs</DependentUpon>
+    </Compile>
+    <Compile Include="özgecmis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="özgecmis.Designer.cs">
+      <DependentUpon>özgecmis.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="basvurular.resx">
+      <DependentUpon>basvurular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GİRİŞ.resx">
+      <DependentUpon>GİRİŞ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ilanolustur.resx">
+      <DependentUpon>ilanolustur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="isara.resx">
+      <DependentUpon>isara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="iscigiris.resx">
+      <DependentUpon>iscigiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="iscihesap.resx">
+      <DependentUpon>iscihesap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="iscisayfa.resx">
+      <DependentUpon>iscisayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="isverengiris.resx">
+      <DependentUpon>isverengiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="isverenhesap.resx">
+      <DependentUpon>isverenhesap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="isverensayfası.resx">
+      <DependentUpon>isverensayfası.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="sirketbilgi.resx">
+      <DependentUpon>sirketbilgi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yapılanbasvuru.resx">
+      <DependentUpon>yapılanbasvuru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yeniegitimd.resx">
+      <DependentUpon>yeniegitimd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yeniisci.resx">
+      <DependentUpon>yeniisci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yeniisveren.resx">
+      <DependentUpon>yeniisveren.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="özgecmis.resx">
+      <DependentUpon>özgecmis.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="is_ve_isci_bulmaDataSet.xsc">
+      <DependentUpon>is_ve_isci_bulmaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="is_ve_isci_bulmaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>is_ve_isci_bulmaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="is_ve_isci_bulmaDataSet.xss">
+      <DependentUpon>is_ve_isci_bulmaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
